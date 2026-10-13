@@ -38,10 +38,13 @@
 * Explores federated learning to help preserve the privacy of local data.
 * Technologies: Python, FastAPI, PostgreSQL/PostGIS, React, and NetworkX.
 
-### 🔎 2. QuickExplore
+### 🌍 2. QuickExplore
 
-* A project included in my software development portfolio.
-* Showcases my work in building practical technology solutions.
+* Developed a full-stack travel platform for destination discovery, vehicle booking with assigned drivers, and rental accommodation management.
+* Implemented role-based authentication and dedicated dashboards for Users, Admins, Drivers, and Rental Owners.
+* Built booking management features, including reservations, renewals, cancellations, dynamic cancellation fees, and image uploads using Cloudinary.
+* **Technologies:** Node.js, Express.js, MongoDB, Mongoose, EJS, Cloudinary.
+
 
 ### 📄 3. Resume Screening & Career Guidance System
 
