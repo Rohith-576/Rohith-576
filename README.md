@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-* GitHub: [Visit My Profile](https://github.com/YOUR_GITHUB_USERNAME)
+* GitHub: [Visit My Profile](https://github.com/Rohith-576)
 
 ---
 
