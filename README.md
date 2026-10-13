@@ -17,9 +17,13 @@
 ## 🛠️ Skills & Technologies
 
 **Programming:** Python, JavaScript
+
 **Web Development:** HTML, CSS, React, Node.js, Express.js
+
 **Databases:** SQL, MySQL, MongoDB
+
 **Machine Learning:** Machine Learning fundamentals, NLP
+
 **Tools:** Git, GitHub, VS Code
 
 *My proficiency varies by technology, and I'm continuously learning and improving.*
